@@ -1,0 +1,5 @@
+{
+  "name": "LiveSignal",
+  "description": "A real-time insight and verification agent that monitors Google Search trends to detect events, validate claims, and explain current events with citations and confidence scoring.",
+  "requestFramePermissions": []
+}
